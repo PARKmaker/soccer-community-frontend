@@ -12,6 +12,8 @@
 
 <a href="https://soccer-community-p-c.netlify.app/">배포 사이트</a>
 </br>
+<a href="https://github.com/soccer-community-P-C/soccer-community-frontend">원본 github</a>
+</br>
 ### 백엔드 연동된 페이지
     read
     - / (메인)
